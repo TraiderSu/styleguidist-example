@@ -17,4 +17,9 @@ module.exports = {
 			]
 		}
 	},
-};
+  theme: {
+    color: {
+      base: 'green'
+    }
+  }
+}

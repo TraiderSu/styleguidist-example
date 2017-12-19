@@ -1,7 +1,7 @@
 Basic button:
 
 ```jsx
-<Button>Push Me</Button>
+<div style={{ backgroundColor: 'papayawhip', color: 'blue' }}>
 ```
 
 Big pink button:
