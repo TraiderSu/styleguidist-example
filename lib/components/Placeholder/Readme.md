@@ -1,3 +1,6 @@
 ```jsx
-<Placeholder type="beard"/>
+<div>
+  <Button>Hello world</Button>
+  <Placeholder type="beard" />
+</div>
 ```
